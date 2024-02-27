@@ -1,6 +1,6 @@
 # Online Learning Platform
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 Este repositorio contiene el código fuente de la aplicación de la plataforma de aprendizaje en línea. En este proyecto, se implementa la gestión del estado en React.js utilizando Redux para mejorar la organización y escalabilidad del estado de la aplicación.
 
