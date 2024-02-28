@@ -33,11 +33,11 @@ La plataforma de aprendizaje en línea ofrece una amplia gama de cursos sobre di
 - **Mejora de la Página Home** 🏠
   - Mejorar la página principal para proporcionar una experiencia de usuario más atractiva e informativa.
 
-- Implementación de Formulario de Registro a los Cursos 📚
+**- Implementación de Formulario de Registro a los Cursos 📚**
   - Agregar un formulario que permita a los usuarios registrarse en los cursos disponibles en la plataforma.
 
-- Agregar Componente de Acerca de ℹ️
+**- Agregar Componente de Acerca de ℹ️**
   - Incluir una página o componente "Acerca de" para proporcionar información sobre la plataforma y su propósito.
 
-- Agregar un CRUD para Registro de Cursos 🔧
+**- Agregar un CRUD para Registro de Cursos 🔧**
   - Implementar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para administrar el registro de cursos en la plataforma.
