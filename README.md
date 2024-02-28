@@ -20,10 +20,24 @@ La plataforma de aprendizaje en línea ofrece una amplia gama de cursos sobre di
 
 **Contribuciones:** Los estudiantes pueden contribuir al proyecto realizando mejoras, correcciones de errores y agregando nuevas características según sea necesario.
 
-## Actividades
+---
 
-**Exploración del Repositorio:** Los estudiantes explorarán el repositorio de la plataforma de aprendizaje en línea para comprender su estructura y funcionamiento.
+# Mejoras a Implementar 🚀
 
-**Análisis de Estado Actual:** Se analizará el manejo de estado actual de la aplicación y se identificarán áreas donde Redux podría mejorar la gestión del estado.
+- **Registro de Usuarios** 📝
+  - Permitir que los usuarios se registren en la plataforma para acceder a funcionalidades adicionales.
 
-**Implementación de Redux:** Los estudiantes implementarán Redux en la aplicación, creando acciones
+- **Roles: Admin, Docente, Usuario** 👥
+  - Establecer diferentes roles de usuario para administradores, docentes y usuarios regulares, cada uno con permisos y acceso específicos.
+
+- **Mejora de la Página Home** 🏠
+  - Mejorar la página principal para proporcionar una experiencia de usuario más atractiva e informativa.
+
+- Implementación de Formulario de Registro a los Cursos 📚
+  - Agregar un formulario que permita a los usuarios registrarse en los cursos disponibles en la plataforma.
+
+- Agregar Componente de Acerca de ℹ️
+  - Incluir una página o componente "Acerca de" para proporcionar información sobre la plataforma y su propósito.
+
+- Agregar un CRUD para Registro de Cursos 🔧
+  - Implementar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para administrar el registro de cursos en la plataforma.
